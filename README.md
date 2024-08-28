@@ -1,9 +1,8 @@
 <p align="center">
  <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
- <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋
+# Hi there 👋
 
 Welcome to my GitHub Workshop! My name is Denis Borisov and I ❤ Event-driven, DevCommunity, and Creative Coding! 😊
 
