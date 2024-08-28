@@ -3,7 +3,9 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 Welcome to my GitHub Workshop! My name is Denis Borisov and I am a Software Engineer 😊
+### Hi there 👋
+
+Welcome to my GitHub Workshop! My name is Denis Borisov and I ❤ Event-driven, DevCommunity, and Creative Coding! 😊
 
 ## 🔥 My contribution streak
 
