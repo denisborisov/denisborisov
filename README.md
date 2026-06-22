@@ -1,9 +1,11 @@
-# Hi there 👋
-
-I'm Denis, a backend engineer who enjoys building systems that have to work when things get complicated.
+# Hi there, I'm Denis Borisov 👋
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40ibmi_expert-2CA5E0?style=flat&logo=telegram)](https://t.me/ibmi_expert)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Denis%20Borisov-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/borisovdenis/)
+
+---
+
+A backend engineer who enjoys building systems that have to work when things get complicated.
 
 Over the last 11+ years I've worked on:
 
