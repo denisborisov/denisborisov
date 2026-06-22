@@ -123,7 +123,3 @@ When I'm not debugging distributed systems, you'll probably find me:
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/borisovdenis/)
 * Chat with me on [Telegram](https://t.me/ibmi_expert)
 * Send me an [Email](mailto:denis.borisov@hotmail.com) (I prefer LinkedIn or Telegram for communication)
-
----
-
-> Build simple things. Scale them only when reality demands it.
