@@ -16,7 +16,7 @@ Over the last 11+ years I've worked on:
 * 📊 Large-scale analytics pipelines
 * 🔧 Developer platforms and internal tooling
 
-Most recently, I'm working on infrastructure for systematic trading, where correctness, latency, reliability, and observability matter every day.
+Most of my professional work has been on proprietary systems, so I can't share the source code publicly. Most recently, I'm working on infrastructure for systematic trading, where correctness, latency, reliability, and observability matter every day.
 
 ---
 
